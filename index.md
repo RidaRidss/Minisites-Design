@@ -1,7 +1,6 @@
-#Minisites Design Site Replica
+Minisites Design Site Replica
 
-- Check Updates On
-# https://minisitesdesign.herokuapp.com/
+- Check Updates On:  https://minisitesdesign.herokuapp.com/
 
 
 
